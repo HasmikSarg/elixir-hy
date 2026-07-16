@@ -12,13 +12,13 @@ This repository is a collection of articles, tutorials, lessons, and news about 
 ## Publications
 
 1. [**Ներածություն**](./_publications/introduction.md)
-2. [**Elixir միջավայրի ինստալացիան**](./_publications/installation.md)
-3. [**Elixir-ի բազային սինթաքսը**](./_publications/basic_syntax.md)
+2. [**Անհրաժեշտ միջավայրի ինստալացիան**](./_publications/installation.md)
+3. [**Բազային սինթաքսը**](./_publications/basic_syntax.md)
 4. [**Թվային տիպերը**](./_publications/numeric_types.md)
 5. [**Atom տվյալների տիպը**](./_publications/atoms.md)
 6. [**Bitstring և Binary տվյալների տիպերը**](./_publications/bitstrings_and_binaries.md)
 7. [**List տվյալների տիպը**](./_publications/lists.md)
-
+8. [**Map տվյալների տիպը**](./_publications/maps.md)
 
 ## License
 
