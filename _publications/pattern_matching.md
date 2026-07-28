@@ -3,6 +3,7 @@ layout: default
 title: "Pattern matching-ը Elixir-ում"
 description: "Ամբողջացնում ենք pattern matching-ի մասին մեր ունեցած գիտելիքը. նաև «=» և pin «^» օպերատորների մասին, ներկայացնում ենք [head | tail] գրելաձևը և կաղապարները մեր սովորած բոլոր տիպերի համար։"
 lang: hy
+date: 2026-07-18 07:42:46 +0400
 ---
 
 ## Pattern matching-ը Elixir-ում

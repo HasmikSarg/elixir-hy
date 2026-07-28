@@ -3,6 +3,7 @@ layout: default
 title: "Elixir-ի ինստալացիան"
 description: "Համառոտ ուղեցույց՝ Elixir-ը Windows, macOS և Linux համակարգերում տեղադրելու համար"
 lang: hy
+date: 2026-07-09 06:03:55 +0400
 ---
 
 ## Elixir-ի ինստալացիան

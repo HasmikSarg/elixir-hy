@@ -2,6 +2,7 @@
 layout: default
 title: "Elixir ծրագրավորման լեզու"
 description: "Elixir ծրագրավորման լեզվի մասին հոդվածներ, ուսումնական նյութեր և նորություններ հայերենով"
+last_modified_at: 2026-07-21 22:15:15 +0400
 lang: hy
 ---
 
