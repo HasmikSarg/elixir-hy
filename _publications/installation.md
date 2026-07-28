@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Elixir-ի ինստալացիան"
 description: "Համառոտ ուղեցույց՝ Elixir-ը Windows, macOS և Linux համակարգերում տեղադրելու համար"
 lang: hy

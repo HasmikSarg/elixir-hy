@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Ֆունկցիաների լրացուցիչ հնարավորությունները"
 description: "Ֆունկցիաների մասին հոդվածաշարի երրորդ մասը. & օպերատորը, pattern matching-ը ֆունկցիաների արգումենտներում, guard-եր"
 lang: hy

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Elixir-ի բազային սինթաքսը"
 description: "Ծանոթանում ենք Elixir լեզվի բազային սինթաքսին՝ iex, IO.puts, մեկնաբանություններ, իդենտիֆիկատորներ և ռեզերվային բառեր։"
 lang: hy

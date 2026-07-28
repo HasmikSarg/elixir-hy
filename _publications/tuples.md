@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Tuple տվյալների տիպը"
 description: "Tuple-ների ներածություն. ինչու է Elixir-ին պետք ևս մեկ «հավաքածու», ինչով է tuple-ը տարբերվում list-ից, և ինչու են {:ok, ...} ու {:error, ...} զույգերն օգտագործվում ամենուր։"
 lang: hy

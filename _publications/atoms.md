@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Atom տվյալների տիպը"
 description: "Ի՞նչ է atom-ը Elixir-ում, ինչո՞վ է այն նման Java-ի ու C#-ի enum-ներին, և ինչու է այն այդքան լայն կիրառվող տվյալների տիպ։"
 lang: hy

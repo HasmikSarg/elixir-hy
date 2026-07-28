@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Pipe օպերատորը և Enum-ի գործիքակազմը (շարունակություն)"
 description: "Enum մոդուլի մասին հոդվածաշարի երկրորդ մասը. |> pipe օպերատորը, any?, all? և find ֆունկցիաները, տեսակավորումը sort-ով ու sort_by-ով, frequencies-ը, group_by-ը և take/drop/at ֆունկցիաները։"
 lang: hy

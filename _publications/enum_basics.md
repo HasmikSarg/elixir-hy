@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Ծանոթություն Enum մոդուլի հետ"
 description: "Enum մոդուլի մասին հոդվածաշարի առաջին մասը. ինչ է enumerable-ը, Range տիպը, map, filter, reject և each ֆունկցիաները, sum-ը, count-ը, member?-ը և ինչու է Elixir-ում հավաքածուների մշակումը կատարվում ոչ թե ցիկլերի, այլ ֆունկցիաների միջոցով"
 lang: hy

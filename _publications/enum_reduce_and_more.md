@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Reduce-ը և Enum մոդուլի այլ ֆունկցիաներ"
 description: "Enum մոդուլի մասին հոդվածաշարի եզրափակիչ մասը. reduce-ը և կուտակիչի գաղափարը, reduce_while-ը, into-ն, zip-ը, with_index-ը, join-ը, flat_map-ը և Stream-ի ներածությունը։"
 lang: hy

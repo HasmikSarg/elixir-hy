@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "bitstring և binary տվյալների տիպերը"
 description: "Ներածական անդրադարձ Bitstring և binary տվյալների տիպերին․ ինչու են string-երը իրականում UTF-8 binary-ներ, և ինչպես տեսնել դրանց բայթերը՝ պարզ օրինակներով՝ սկսնակների համար"
 lang: hy

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Pattern matching-ը Elixir-ում"
 description: "Ամբողջացնում ենք pattern matching-ի մասին մեր ունեցած գիտելիքը. նաև «=» և pin «^» օպերատորների մասին, ներկայացնում ենք [head | tail] գրելաձևը և կաղապարները մեր սովորած բոլոր տիպերի համար։"
 lang: hy

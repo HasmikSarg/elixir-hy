@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Մոդուլներ և ֆունկցիաներ"
 description: "Ֆունկցիաներին նվիրված հոդվածաշարի առաջին մասը. defmodule և def, ինչու Elixir-ում ֆունկցիաները չունեն return, ինչ է arity-ն, default արգումենտները, private ֆունկցիաները և .ex/.exs ֆայլերի տարբերությունը։"
 lang: hy

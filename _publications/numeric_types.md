@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Elixir-ի թվային տիպերը"
 description: "Ամբողջ և կոտորակային թվերը Elixir-ում՝ երկուական, ութական և տասնվեցական հիմքեր, float-ների ճշգրտության հարցեր և թվաբանական գործողություններ։"
 lang: hy

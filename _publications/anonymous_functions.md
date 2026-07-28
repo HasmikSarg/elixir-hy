@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Անանուն ֆունկցիաներ"
 description: "Ֆունկցիաների մասին հոդվածաշարի երկրորդ մասը. fn ... end գրելաձևը, ինչու է անանուն ֆունկցիան կանչվում կետով, closure-ներ։"
 lang: hy

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: publication
 title: "Ներածություն"
 description: "Ինչու՞ է Elixir֊ը համարվում լավագույն ծրագրավորման լեզուներից մեկը"
 lang: hy
