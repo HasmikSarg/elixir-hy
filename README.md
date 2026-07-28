@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Elixir ծրագրավորման լեզու"
+description: "Elixir ծրագրավորման լեզվի մասին հոդվածներ, ուսումնական նյութեր և նորություններ հայերենով"
+lang: hy
+---
+
 ![Martiros Saryan](./assets/martiros_saryan_armenia.jpg)
 
 Այս պահոցը Elixir ծրագրավորման լեզվի մասին հայերենով գրված հոդվածների, ուսումնական
@@ -19,24 +26,10 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 9. [**Tuple տվյալների տիպը**](./_publications/tuples.md)
 10. [**Ամբողջացնում ենք pattern matching-ի մասին մեր ունեցած գիտելիքը**](./_publications/pattern_matching.md)
 11. [**Մոդուլներ և ֆունկցիաներ**](./_publications/modules_and_functions.md)
+12. [**Անանուն ֆունկցիաներ**](./_publications/anonymous_functions.md)
+13. [**Ֆունկցիաների լրացուցիչ հնարավորությունները**](./_publications/advanced_functions.md)
+14. [**Ծանոթություն Enum մոդուլի հետ**](./_publications/enum_basics.md)
+15. [**Pipe օպերատորը և Enum-ի գործիքակազմը (շարունակություն)**](./_publications/pipe_and_enum_tools.md)
+16. [**Reduce-ը և Enum մոդուլի այլ ֆունկցիաներ**](./_publications/enum_reduce_and_more.md)
 
-## Լիցենզիա
-
-«elixir-hy»-ը, տրամադրվում է
-[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) լիցենզիայի ներքո։
-
-Դուք ազատ եք՝
-
-- **Տարածել նյութը ցանկացած միջավայրում կամ ձևաչափով**։
-- **Փոփոխել, վերամշակել նյութը և ստեղծել դրա հիման վրա նոր նյութեր՝ ցանկացած նպատակով, այդ թվուն նաև կոմերցիոն**
-
-Հետևյալ պայմաններով՝
-
-- **Հեղինակության նշում (Attribution)** — Դուք պետք է պատշաճ կերպով նշեք հեղինակին,
-  տրամադրեք լիցենզիայի հղումը և նշեք՝ արդյոք կատարվել են փոփոխություններ։ Պատշաճ նշումը պետք է ներառի հղում սկզբնական պահոցին՝ <https://github.com/vontanne/elixir-hy>։
-- **Համանման տարածում (ShareAlike)** — Եթե վերամշակում կամ ձևափոխում եք նյութը կամ
-  ստեղծում եք նորը դրա հիման վրա, ապա ձեր ներդրումը պետք է տարածեք նույն լիցենզիայով, ինչ
-  բնօրինակը։
-
-Լիցենզիայի ամբողջական իրավական տեքստը գտնվում է
-[LICENSE](https://github.com/vontanne/elixir-hy/blob/master/LICENSE) ֆայլում։
+Նախագծի հեղինակն է [Հովհաննես Հովհաննիսյանը](https://github.com/vontanne)։ Եթե հոդվածներում նկատել եք սխալ կամ անճշտություն, կարող եք [բացել issue](https://github.com/vontanne/elixir-hy/issues/new/choose)։
