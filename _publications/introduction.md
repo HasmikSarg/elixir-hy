@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: publication
 title: "Ներածություն"
 description: "Ինչու՞ է Elixir֊ը համարվում լավագույն ծրագրավորման լեզուներից մեկը"
 lang: hy
+date: 2026-07-08 16:17:45 +0400
 ---
 
 ## Ներածություն

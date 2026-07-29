@@ -31,5 +31,3 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 14. [**Ծանոթություն Enum մոդուլի հետ**](./_publications/enum_basics.md)
 15. [**Pipe օպերատորը և Enum-ի գործիքակազմը (շարունակություն)**](./_publications/pipe_and_enum_tools.md)
 16. [**Reduce-ը և Enum մոդուլի այլ ֆունկցիաներ**](./_publications/enum_reduce_and_more.md)
-
-Նախագծի հեղինակն է [Հովհաննես Հովհաննիսյանը](https://github.com/vontanne)։ Եթե հոդվածներում նկատել եք սխալ կամ անճշտություն, կարող եք [բացել issue](https://github.com/vontanne/elixir-hy/issues/new/choose)։
