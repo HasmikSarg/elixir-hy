@@ -2,7 +2,6 @@
 layout: default
 title: "Elixir ծրագրավորման լեզու"
 description: "Elixir ծրագրավորման լեզվի մասին հոդվածներ, ուսումնական նյութեր և նորություններ հայերենով"
-last_modified_at: 2026-07-21 22:15:15 +0400
 lang: hy
 ---
 
@@ -32,5 +31,3 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 14. [**Ծանոթություն Enum մոդուլի հետ**](./_publications/enum_basics.md)
 15. [**Pipe օպերատորը և Enum-ի գործիքակազմը (շարունակություն)**](./_publications/pipe_and_enum_tools.md)
 16. [**Reduce-ը և Enum մոդուլի այլ ֆունկցիաներ**](./_publications/enum_reduce_and_more.md)
-
-Նախագծի հեղինակն է [Հովհաննես Հովհաննիսյանը](https://github.com/vontanne)։ Եթե հոդվածներում նկատել եք սխալ կամ անճշտություն, կարող եք [բացել issue](https://github.com/vontanne/elixir-hy/issues/new/choose)։
