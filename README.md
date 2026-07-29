@@ -31,3 +31,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 14. [**Ծանոթություն Enum մոդուլի հետ**](./_publications/enum_basics.md)
 15. [**Pipe օպերատորը և Enum-ի գործիքակազմը (շարունակություն)**](./_publications/pipe_and_enum_tools.md)
 16. [**Reduce-ը և Enum մոդուլի այլ ֆունկցիաներ**](./_publications/enum_reduce_and_more.md)
+17. [**Պայմանական ճյուղավորում՝ case, cond և if**](./_publications/control_flow.md)
