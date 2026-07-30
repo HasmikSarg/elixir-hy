@@ -3,10 +3,10 @@ layout: publication
 title: "Ռեկուրսիա"
 description: "Կրկնվող գործողությունները Elixir-ում՝ ռեկուրսիա, ավարտի ճյուղ, reduce և map ալգորիթմները։"
 lang: hy
-date: 2026-07-30 10:15:48 +0400
+date: 2026-07-30 14:51:47 +0400
 ---
 
-![Recursion](../assets/recursion.png)
+![Recursion](../assets/recursion.jpg)
 
 ## Ռեկուրսիա
 
