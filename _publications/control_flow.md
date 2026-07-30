@@ -6,8 +6,6 @@ lang: hy
 date: 2026-07-30 14:51:47 +0400
 ---
 
-![Control Flow](../assets/control_flow.jpg)
-
 ## Պայմանական ճյուղավորում՝ case, cond և if
 
 Այս հոդվածում կդիտարկենք `case`, `cond` և `if` կառուցվածքները։
