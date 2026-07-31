@@ -6,16 +6,15 @@ locale: hy_AM
 url: "https://vontanne.github.io"
 baseurl: "/elixir-hy"
 
-author:
-  name: "Hovhannes Hovhannisyan"
-  url: "https://github.com/vontanne"
-
-social:
-  name: "Hovhannes Hovhannisyan"
-  links:
-    - "https://github.com/vontanne"
+social_preview:
+  image: "/assets/social-preview.jpg"
+  width: 1200
+  height: 630
+  type: "image/jpeg"
+  alt: "Elixir ծրագրավորման լեզվի հայերեն ուսումնական նյութեր"
 
 twitter:
+  username: vontanne
   card: summary_large_image
 
 theme: jekyll-theme-cayman
@@ -37,15 +36,6 @@ relative_links:
 
 readme_index:
   with_frontmatter: true
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      image:
-        path: "https://vontanne.github.io/elixir-hy/assets/social-preview.jpg"
-        width: 1200
-        height: 630
 
 webmaster_verifications:
   google: "-_d57q3Ay8v6w2XtvhHcix1tv-LrtFEqu-xV5j9VAd8"
