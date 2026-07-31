@@ -6,13 +6,6 @@ locale: hy_AM
 url: "https://vontanne.github.io"
 baseurl: "/elixir-hy"
 
-social_preview:
-  image: "/assets/social-preview.jpg"
-  width: 1200
-  height: 630
-  type: "image/jpeg"
-  alt: "Elixir ծրագրավորման լեզվի հայերեն ուսումնական նյութեր"
-
 twitter:
   username: vontanne
   card: summary_large_image
@@ -36,6 +29,16 @@ relative_links:
 
 readme_index:
   with_frontmatter: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: "/assets/social-preview.jpg"
+        width: 1211
+        height: 636
+        alt: "Elixir ծրագրավորման լեզվի հայերեն ուսումնական նյութեր"
 
 webmaster_verifications:
   google: "-_d57q3Ay8v6w2XtvhHcix1tv-LrtFEqu-xV5j9VAd8"
