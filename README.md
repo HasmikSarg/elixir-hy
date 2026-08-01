@@ -35,3 +35,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 18. [**Ռեկուրսիա**](./_publications/recursion.md)
 19. [**Keyword list-երի կառուցվածքն ու կիրառությունը**](./_publications/keyword_lists.md)
 20. [**Struct տվյալների տիպը**](./_publications/structs.md)
+21. [**Unicode-ը և UTF կոդավորումները**](./_publications/unicode_and_utf.md)
