@@ -5,7 +5,7 @@ description: "Elixir ծրագրավորման լեզվի մասին հոդված
 lang: hy
 ---
 
-![Martiros Saryan](./assets/martiros_saryan_armenia.jpg)
+![Minas Avetisyan](./assets/minas_avetisyan.jpg)
 
 Այս պահոցը Elixir ծրագրավորման լեզվի մասին հայերենով գրված հոդվածների, ուսումնական
 նյութերի և նորությունների հավաքածու է։ Նպատակն է Elixir-ի հասկացությունները,
@@ -36,3 +36,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 19. [**Keyword list-երի կառուցվածքն ու կիրառությունը**](./_publications/keyword_lists.md)
 20. [**Struct տվյալների տիպը**](./_publications/structs.md)
 21. [**Unicode-ը և UTF կոդավորումները**](./_publications/unicode_and_utf.md)
+22. [**Տեքստի մշակումը և Unicode նորմալացումը**](./_publications/string_processing.md)
