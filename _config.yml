@@ -1,16 +1,47 @@
 title: "Elixir ծրագրավորման լեզու"
-description: "Elixir ծրագրավորման լեզվի մասին հոդվածներ, ուսումնական նյութեր և նորություններ"
+tagline: "Հոդվածներ, ուսումնական նյութեր և նորություններ հայերենով"
+description: "Elixir ծրագրավորման լեզվի մասին հոդվածներ, ուսումնական նյութեր և նորություններ հայերենով"
+
 lang: hy
+locale: hy_AM
+timezone: Asia/Yerevan
 
 url: "https://vontanne.github.io"
 baseurl: "/elixir-hy"
 
+author:
+  name: "Hovhannes Hovhannisyan"
+  url: "https://github.com/vontanne"
+  twitter: vontanne
+
+twitter:
+  username: vontanne
+  card: summary_large_image
+
 theme: jekyll-theme-cayman
+
+strict_front_matter: true
 
 collections:
   publications:
     output: true
     permalink: /publications/:name.html
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: "/assets/social-preview.jpg"
+        width: 1211
+        height: 636
+        alt: "Elixir ծրագրավորման լեզվի հայերեն հոդվածներ, ուսումնական նյութեր և նորություններ"
+
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
 
 plugins:
   - jekyll-seo-tag

@@ -3,10 +3,8 @@ layout: publication
 title: "Պայմանական ճյուղավորում՝ case, cond և if"
 description: "Պայմանական ճյուղավորումը Elixir-ում։ case, cond և if կառուցվածքների կիրառությունը"
 lang: hy
-date: 2026-07-29 21:14:03 +0400
+date: 2026-07-30 14:51:47 +0400
 ---
-
-![Control Flow](../assets/control_flow.png)
 
 ## Պայմանական ճյուղավորում՝ case, cond և if
 
