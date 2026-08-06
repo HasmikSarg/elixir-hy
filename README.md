@@ -38,3 +38,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 21. [**Unicode-ը և UTF կոդավորումները**](./_publications/unicode_and_utf.md)
 22. [**Տեքստի մշակումը և Unicode նորմալացումը**](./_publications/string_processing.md)
 23. [**Մոդուլի ատրիբուտները**](./_publications/module_attributes.md)
+24. [**Սխալների մշակման հիմնական մոտեցումները**](./_publications/error_handling_approaches.md)
