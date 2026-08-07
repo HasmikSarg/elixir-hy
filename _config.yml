@@ -39,8 +39,8 @@ defaults:
     values:
       image:
         path: "/assets/minas_avetisyan.jpg"
-        width: 1211
-        height: 636
+        width: 1495
+        height: 914
         alt: "A painting by Armenian artist Minas Avetisyan"
 
   - scope:
