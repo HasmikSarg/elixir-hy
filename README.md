@@ -39,3 +39,4 @@ BEAM/OTP էկոհամակարգը և Phoenix framework-ը հասանելի դա�
 22. [**Տեքստի մշակումը և Unicode նորմալացումը**](./_publications/string_processing.md)
 23. [**Մոդուլի ատրիբուտները**](./_publications/module_attributes.md)
 24. [**Սխալների մշակման հիմնական մոտեցումները**](./_publications/error_handling_approaches.md)
+25. [**Սխալների և բացառությունների մշակումը Elixir-ում**](./_publications/error_handling_in_elixir.md)
